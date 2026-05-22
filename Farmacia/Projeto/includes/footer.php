@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<?php?>
->>>>>>> 61c9c0207d7a148d2e0c6fee0b1a5344f53238eb
 </main>
 
 <footer style="background:#1F0A66; color:rgba(255,255,255,0.7); text-align:center; padding:16px; font-size:0.85rem; margin-top:auto;">
