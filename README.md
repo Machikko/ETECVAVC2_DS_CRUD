@@ -1,13 +1,24 @@
-# **The Amazing Farmácia** 💊
+# The Amazing Farmácia 💊
 
 The Amazing Farmácia é uma farmácia fictícia criada para o desenvolvimento de um site com fins educacionais.
+
+# Membros
+
+- Benjamin Felippe (Machikko)
+- Gabriel Araujo (AraujoTheCreator)
 
 # Objetivo 📖
 
 Este projeto foi desenvolvido com o objetivo de praticar:
 
 - Desenvolvimento Web
-- HTML, CSS PHP e SQL
+- HTML
+- CSS
+- PHP
+- SQL
+- MySQL
+- phpMyAdmin
+- XAMPP
 - Estruturação de repositórios
 
 # Funcionalidades
@@ -32,4 +43,3 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 - cadastro.php (Formulário de inserção)
 - editar.php (Formulário de edição)
 - excluir.php (Lógica de remoção)
-

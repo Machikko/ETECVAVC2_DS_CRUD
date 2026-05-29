@@ -1,4 +1,3 @@
-<?php?>
 </main>
 
 <footer style="background:#1F0A66; color:rgba(255,255,255,0.7); text-align:center; padding:16px; font-size:0.85rem; margin-top:auto;">
